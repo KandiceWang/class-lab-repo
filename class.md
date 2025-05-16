@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Kandice Wang
+- Certification: Ting Yu Wang
 
 ## Instructions
 Please replace the placeholders with your details:
